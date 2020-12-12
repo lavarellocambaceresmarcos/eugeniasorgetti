@@ -5,7 +5,11 @@ $gris-claro:#F7F7F7;
 
 /*GENERAL*/
 * {
-  font-family: 'Roboto Slab', serif;
+  font-family: 'Lato', sans-serif;
+}
+
+h1 {
+  font-family: 'Simonetta', cursive;
 }
 
 .body {
@@ -192,8 +196,8 @@ transform: scale(1); }
 
 /* PROYECTOS */
 #about {
-  color:black;
-  background-color: blanchedalmond;
+  color:white;
+  background-color: #3f3940;
   padding-top: 50px;
   padding-bottom: 50px;
 }
