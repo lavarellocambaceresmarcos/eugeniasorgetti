@@ -489,4 +489,8 @@ p {
     font-size: 2rem; }
   .icono-cv {
     display: flex;
-    justify-content: center; } }
+    justify-content: center; }
+  .tm-welcome-left {
+    padding-right: 30px;
+    padding-top: 20px;
+    padding-bottom: 50px; } }
