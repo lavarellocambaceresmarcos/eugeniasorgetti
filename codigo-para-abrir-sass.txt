@@ -1,3 +1,13 @@
 npm run watch-css
 
+git-process-to-push-files :
+
+git add .
+
+git commit -m "comentario"
+
+git push -u origin master 
+
+
+
 passw-del-server : 7k&e2FTn*DWEqkXZMwGC
