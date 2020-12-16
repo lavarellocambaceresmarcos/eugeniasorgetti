@@ -8,6 +8,8 @@ git commit -m "comentario"
 
 git push -u origin master 
 
+git ignore ejemplo-------esto es para ignorar o eliminar un archivo que no va
+
 
 
 passw-del-server : 7k&e2FTn*DWEqkXZMwGC
