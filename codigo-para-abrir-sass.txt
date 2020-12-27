@@ -13,3 +13,6 @@ git ignore ejemplo-------esto es para ignorar o eliminar un archivo que no va
 
 
 passw-del-server : 7k&e2FTn*DWEqkXZMwGC
+
+
+Página-web-con-todo-explicado-super-util :  https://losapuntesdemajo.now.sh/

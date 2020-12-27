@@ -245,10 +245,19 @@ p {
   display: flex;
   align-items: center; }
 
+#tmWelcomeResume {
+  position: relative;
+  display: flex;
+  align-items: center; }
+
 .tm-brand-container-outer {
   margin-top: -400px; }
 
 .tm-brand-container-inner {
+  max-width: 580px;
+  width: 100%; }
+
+.tm-brand-container-inner-resume {
   max-width: 580px;
   width: 100%; }
 
@@ -469,6 +478,10 @@ p {
     flex-direction: column;
     align-items: center;
     text-align: center; }
+  .tm-brand-container-inner-resume {
+    max-width: 580px;
+    width: 100%;
+    margin-top: 80px; }
   .tm-portfolio-description {
     width: calc(100%);
     padding: 20px; }
@@ -477,7 +490,11 @@ p {
   .tm-brand-container {
     padding: 20px; }
   #tmWelcome {
-    padding-bottom: 400px; }
+    padding-bottom: 300px; }
+  #tmWelcomeResume {
+    padding-bottom: 500px; }
+  .tm-brand-container-outer {
+    padding-bottom: 100px; }
   .textoResume-intro {
     padding-left: 30px; }
   .tm-welcome-title {
