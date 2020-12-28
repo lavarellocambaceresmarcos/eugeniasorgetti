@@ -486,7 +486,7 @@ $bodyFont: 'Open Sans', sans-serif;
 /*MEDIA_Q*/
 
 
-/* negative media_q*/
+/* negativas media_q*/
 
 @media (min-width: 1100px) {
  #link-descarga-mobil {
@@ -496,12 +496,12 @@ $bodyFont: 'Open Sans', sans-serif;
 
 /*index*/
 @media (max-width: 780px) {
-    .container {
+    
+  .container {
         width: 100%;
         margin: 0 auto;
     }
-}
-@media (max-width: 780px) {
+
   #headerwrap h1 {
   width: 100%;
   size: 100%;}
@@ -526,18 +526,15 @@ $bodyFont: 'Open Sans', sans-serif;
   }
 
 
-}
-@media (max-width: 780px) {
   footer {
     text-align: center;
   }
-}
-@media (max-width: 780px) {
+
   .mainIndex {
   background-image: url("../imagenes/eugeAri.png");
   background-size:auto; 
   height:85vh;
-}
+  }
 }
 /*galeria*/
 @media (max-width: 780px) {
@@ -549,21 +546,21 @@ column-count: 1;
 -moz-column-width: 100%;
 column-width: 100%;
   }
-}
-@media (max-width: 780px) {
+
+
 .btn.filter {
 padding-left: 1.1rem;
 padding-right: 1.1rem;
   }
-}
-@media (max-width: 780px) {
+
+
 .contenedorBotonesGaleria {
   display: flex;
   flex-direction: column;
   }
 
-}
-@media (max-width: 780px) {
+
+
 .foto img {
   border: 2px solid #fff;
   margin: 4px;
@@ -638,7 +635,7 @@ border-bottom-left-radius: 5px;
 }
 
 #tmWelcomeResume {
-padding-bottom: 500px;}
+padding-bottom: 300px;}
 
 .tm-brand-container-outer {
   padding-bottom: 100px;
