@@ -267,7 +267,7 @@ align-items: center;
   img {
     height: 80px;
     padding-top: 20px;
-    
+    padding-left: 50px;
   }
 }
 
@@ -492,6 +492,12 @@ $bodyFont: 'Open Sans', sans-serif;
  #link-descarga-mobil {
    display: none;
  }
+
+ .tituloMobil {
+   display: none;
+ }
+
+
 }
 
 /*index*/
@@ -514,6 +520,10 @@ $bodyFont: 'Open Sans', sans-serif;
   #headerwrap h1 {
   font-size: 3.15rem;
   color:white;}
+
+  .textoInicio {
+    margin-top: 100px;
+  }
 
   .textoindex {
   
@@ -604,6 +614,15 @@ border-bottom-left-radius: 5px;
     display: none;
   }
 
+  .intro2 {
+    display: none;
+  }
+
+  .tituloPC {
+    display: none;
+  }
+
+
   .tm-portfolio-item {
     display: flex;
     flex-direction: column;
@@ -637,9 +656,7 @@ border-bottom-left-radius: 5px;
 #tmWelcomeResume {
 padding-bottom: 300px;}
 
-.tm-brand-container-outer {
-  padding-bottom: 200px;
-}
+
 
 .textoResume-intro {
   padding-left: 30px;
@@ -671,6 +688,15 @@ padding-bottom: 300px;}
   padding-right: 30px;
   padding-top: 20px;
   padding-bottom: 50px;
+}
+
+.tm-portfolio-name {
+  width: 300px;
+    height: 120px;
+    font-size: 2rem;
+    display: flex;
+    align-items: center;
+    text-align: center;
 }
 
 }
